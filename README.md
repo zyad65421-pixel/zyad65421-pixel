@@ -1,16 +1,18 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> 
-<br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
 # 👋 Hello, I'm Ziad Mohamed Abdel Nasser
+
 ### 🔐 Cyber Security Student | Penetration Testing Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange"/>
 
-[![linkedin badge](https://img.shields.io/badge/Ziad_Mohamed-grey?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Ziad%20Mohamed-blue?logo=linkedin"/>
+</a>
 
 </div>
 
@@ -18,76 +20,107 @@
 
 # 🚀 About Me
 
-- 🔐 Cybersecurity student passionate about **Penetration Testing**
-- 🧠 Practicing on **TryHackMe, Hack The Box, and PortSwigger Labs**
-- 🐧 I enjoy working with **Linux & security tools**
-- 🎯 My goal is to become a **Professional Penetration Tester**
-- 📚 Always learning new **Cybersecurity techniques**
+🔐 Cybersecurity student passionate about **Penetration Testing & Bug Bounty**
+
+🧠 Practicing on:
+
+- TryHackMe  
+- Hack The Box  
+- PortSwigger Web Security Academy  
+
+🎯 Goal: Become a **Professional Penetration Tester**
 
 ---
 
-# 🔐 Cybersecurity Skills
+# 🧠 Cyber Security Skills
 
-![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Hunting-red)
-![Web Security](https://img.shields.io/badge/Web%20Application-Security-blue)
-![Ethical Hacking](https://img.shields.io/badge/Ethical-Hacking-black)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability-Assessment-orange)
-![Network Security](https://img.shields.io/badge/Network-Security-green)
-![Security Testing](https://img.shields.io/badge/Security-Testing-purple)
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-black)
+![Bug Bounty](https://img.shields.io/badge/Bug-Bounty-red)
+![Ethical Hacking](https://img.shields.io/badge/Ethical-Hacking-darkred)
+![Penetration Testing](https://img.shields.io/badge/Penetration-Testing-grey)
 
 ---
 
-# 🖥 Systems & Networking
+# 🌐 Networking
 
-![Linux](https://img.shields.io/badge/Linux-System%20Administration-FCC624?logo=linux)
-![Windows](https://img.shields.io/badge/Windows-System%20Administration-0078D6?logo=windows)
-![Networking](https://img.shields.io/badge/Computer-Networking-blue)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-Protocol%20Suite-darkblue)
-
----
-
-# 💻 Programming & Development
-
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Front-End](https://img.shields.io/badge/Front-End-Development-purple)
+![Networking](https://img.shields.io/badge/Networking-blue)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-blue)
+![OSI Model](https://img.shields.io/badge/OSI-Model-lightgrey)
+![Routing](https://img.shields.io/badge/Routing-blue)
+![Switching](https://img.shields.io/badge/Switching-blue)
+![Cisco](https://img.shields.io/badge/Cisco-blue)
 
 ---
 
-# 🛠 Tools
+# 🐧 Operating Systems
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-orange)
+![Windows](https://img.shields.io/badge/Windows-System%20Administration-blue)
+
+---
+
+# 🛠 Security Tools
+
 ![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue)
-![Metasploit](https://img.shields.io/badge/Metasploit-Framework-darkblue)
+![Nmap](https://img.shields.io/badge/Nmap-green)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue)
+![Metasploit](https://img.shields.io/badge/Metasploit-darkblue)
+![OWASP](https://img.shields.io/badge/OWASP-black)
+
+---
+
+# 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)
+![C++](https://img.shields.io/badge/C++-blue)
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+
+---
+
+# 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
 
 ---
 
 # 🧠 Other Skills
 
 ![Problem Solving](https://img.shields.io/badge/Problem-Solving-brightgreen)
-![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoft-excel)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoft-excel)
 
 ---
 
 # 🎓 Education
 
-🎓 **Akhbar El Youm Academy**
+**Akhbar El Youm Academy**
 
 - Computer Networking  
-- Network Security  
 - Ethical Hacking  
+- Network Security  
 - English
+
+---
+
+# 🧩 Practice Platforms
+
+- 🧠 TryHackMe  
+- 🧩 Hack The Box  
+- 🐞 PortSwigger Labs  
 
 ---
 
 # 🌍 Languages
 
-- Arabic (Native)
-- English (Good)
+Arabic — Native  
+English — Good  
 
 ---
 
@@ -95,12 +128,22 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-⭐ **Always learning. Always hacking ethically.**
+# ⚡ Code Cycle
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
+
+</div>
+
+⭐ Always learning. Always hacking ethically.
