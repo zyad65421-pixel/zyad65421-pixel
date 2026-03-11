@@ -8,11 +8,15 @@
 
 ### 🔐 Cyber Security Student | Penetration Testing Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=https://github.com/zyad65421-pixel&style=flat&color=orange"/>
+<img src="https://komarev.com/ghpvc/?username=zyad65421-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="zyad65421-pixel" />
 
-<a href="https://www.linkedin.com/in/zeyad-mohammed-6b53aa309/">
-<img src="https://img.shields.io/badge/LinkedIn-Ziad%20Mohamed-blue?logo=linkedin"/>
-</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/zeyad-mohammed-6b53aa309/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/hghgfh.hghf?locale=ar_AR" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="رابط_انستجرام_هنا" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="رابط_بورت_سويجر_هنا" target="blank"><img src="https://img.shields.io/badge/PortSwigger-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" /></a>
+<a href="رابط_هات_ذا_بوكس_هنا" target="blank"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+</p>
 
 </div>
 
