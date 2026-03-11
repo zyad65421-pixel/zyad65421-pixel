@@ -36,7 +36,6 @@
 ![Ethical Hacking](https://img.shields.io/badge/Ethical-Hacking-darkred)
 ![Penetration Testing](https://img.shields.io/badge/Penetration-Testing-grey)
 
----
 
 # 🌐 Networking
 
@@ -47,7 +46,6 @@
 ![Switching](https://img.shields.io/badge/Switching-blue)
 ![Cisco](https://img.shields.io/badge/Cisco-blue)
 
----
 
 # 🐧 Operating Systems
 
@@ -66,7 +64,6 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-darkblue)
 ![OWASP](https://img.shields.io/badge/OWASP-black)
 
----
 
 # 💻 Programming
 
@@ -78,7 +75,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
----
 
 # 🧰 Tools
 
@@ -86,7 +82,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
 
----
 
 # 🧠 Other Skills
 
