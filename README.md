@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="65%"/>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
@@ -18,17 +18,14 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🔐 Cybersecurity student passionate about **Penetration Testing & Bug Bounty**
+- 🔐 Passionate about **Cyber Security & Bug Bounty**
+- 🧠 Practicing on **TryHackMe, HackTheBox & PortSwigger**
+- 🐧 Love working with **Linux & Kali Linux**
+- 🎯 Goal: Become a **Professional Penetration Tester**
 
-🧠 Practicing on:
-
-- TryHackMe  
-- Hack The Box  
-- PortSwigger Web Security Academy  
-
-🎯 Goal: Become a **Professional Penetration Tester**
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="180"/>
 
 ---
 
@@ -105,7 +102,7 @@
 - Computer Networking  
 - Ethical Hacking  
 - Network Security  
-- English
+- English  
 
 ---
 
@@ -114,13 +111,6 @@
 - 🧠 TryHackMe  
 - 🧩 Hack The Box  
 - 🐞 PortSwigger Labs  
-
----
-
-# 🌍 Languages
-
-Arabic — Native  
-English — Good  
 
 ---
 
@@ -138,12 +128,14 @@ English — Good
 
 # ⚡ Code Cycle
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="80"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="80"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="80"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
+</p>
 
-</div>
+---
 
-⭐ Always learning. Always hacking ethically.
+⭐ **Always learning. Always hacking ethically.**
