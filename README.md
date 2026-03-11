@@ -7,10 +7,6 @@
 # Hi 👋 I'm Ziad Mohamed Abdel Nasser
 ### Cyber Security Student | Bug Bounty Hunter
 
-![Profile Views](https://komarev.com/ghpvc/?username=ZiadMohamedAbdelNasser&style=flat&color=orange)
-
-</div>
-
 ### Code Cycle
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
@@ -21,7 +17,9 @@
 
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=ZiadMohamedAbdelNasser&style=flat&color=orange)
 
+</div>
 
 ---
 
