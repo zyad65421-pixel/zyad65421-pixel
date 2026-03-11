@@ -8,7 +8,7 @@
 
 ### 🔐 Cyber Security Student | Penetration Testing Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange"/>
+<img src="https://komarev.com/ghpvc/?username=https://github.com/zyad65421-pixel&style=flat&color=orange"/>
 
 <a href="https://www.linkedin.com/in/zeyad-mohammed-6b53aa309/">
 <img src="https://img.shields.io/badge/LinkedIn-Ziad%20Mohamed-blue?logo=linkedin"/>
