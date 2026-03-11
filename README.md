@@ -29,14 +29,14 @@
 
 ---
 
-# 🧠 Cyber Security Skills
+ 🧠 Cyber Security Skills
 
 ![Cyber Security](https://img.shields.io/badge/Cyber-Security-black)
 ![Bug Bounty](https://img.shields.io/badge/Bug-Bounty-red)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical-Hacking-darkred)
 ![Penetration Testing](https://img.shields.io/badge/Penetration-Testing-grey)
 
----
+
 
 # 🌐 Networking
 
