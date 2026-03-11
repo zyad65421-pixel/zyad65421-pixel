@@ -29,7 +29,7 @@
 
 ---
 
-# 🧠 Cyber Security Skills
+ 🧠 Cyber Security Skills
 
 ![Cyber Security](https://img.shields.io/badge/Cyber-Security-black)
 ![Bug Bounty](https://img.shields.io/badge/Bug-Bounty-red)
@@ -37,7 +37,7 @@
 ![Penetration Testing](https://img.shields.io/badge/Penetration-Testing-grey)
 
 
-# 🌐 Networking
+ 🌐 Networking
 
 ![Networking](https://img.shields.io/badge/Networking-blue)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-blue)
@@ -54,7 +54,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange)
 ![Windows](https://img.shields.io/badge/Windows-System%20Administration-blue)
 
----
+
 
 # 🛠 Security Tools
 
@@ -88,7 +88,7 @@
 ![Problem Solving](https://img.shields.io/badge/Problem-Solving-brightgreen)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoft-excel)
 
----
+
 
 # 🎓 Education
 
