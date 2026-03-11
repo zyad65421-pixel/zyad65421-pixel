@@ -86,3 +86,37 @@ class Ziad:
     ]
 
     interest = "Finding vulnerabilities and learning how systems work"
+
+-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" />  I’m currently learning **Web Security & Cyber Security**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" /><br>
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I like exploring **Linux & Networking**. <br>
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me about **Cyber Security, Networking, or PC Building**. <br>
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Find me on GitHub. <br>
+
+- ⚡ Fun fact: Hackers think differently to secure systems better.
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZiadMohamedAbdelNasser&theme=tokyonight" width="32%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZiadMohamedAbdelNasser&theme=tokyonight" width="32%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZiadMohamedAbdelNasser&theme=tokyonight" width="32%">
+
+</div>
+
+---
+
+<div align="center">
+
+### Code Cycle
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
+
+</div>
