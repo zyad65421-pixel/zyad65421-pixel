@@ -13,9 +13,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/zeyad-mohammed-6b53aa309/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/hghgfh.hghf?locale=ar_AR" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="رابط_انستجرام_هنا" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="رابط_بورت_سويجر_هنا" target="blank"><img src="https://img.shields.io/badge/PortSwigger-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" /></a>
-<a href="رابط_هات_ذا_بوكس_هنا" target="blank"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+<a href="https://codeforces.com/submissions/ziadmohamed9.2" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://portswigger.net/web-security/dashboard" target="blank"><img src="https://img.shields.io/badge/PortSwigger-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" /></a>
+<a href="https://app.hackthebox.com/starting-point?tab=1" target="blank"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
 </p>
 
 </div>
