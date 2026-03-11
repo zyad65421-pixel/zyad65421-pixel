@@ -27,7 +27,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="180"/>
 
--
+---
 
 <p>🧠 Cyber Security Skills</p> 
 
