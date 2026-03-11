@@ -29,15 +29,16 @@
 
 ---
 
- 🧠 Cyber Security Skills
+# 🧠 Cyber Security Skills
 
 ![Cyber Security](https://img.shields.io/badge/Cyber-Security-black)
 ![Bug Bounty](https://img.shields.io/badge/Bug-Bounty-red)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical-Hacking-darkred)
 ![Penetration Testing](https://img.shields.io/badge/Penetration-Testing-grey)
 
+---
 
- 🌐 Networking
+# 🌐 Networking
 
 ![Networking](https://img.shields.io/badge/Networking-blue)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-blue)
@@ -46,6 +47,7 @@
 ![Switching](https://img.shields.io/badge/Switching-blue)
 ![Cisco](https://img.shields.io/badge/Cisco-blue)
 
+---
 
 # 🐧 Operating Systems
 
@@ -54,7 +56,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange)
 ![Windows](https://img.shields.io/badge/Windows-System%20Administration-blue)
 
-
+---
 
 # 🛠 Security Tools
 
@@ -64,6 +66,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-darkblue)
 ![OWASP](https://img.shields.io/badge/OWASP-black)
 
+---
 
 # 💻 Programming
 
@@ -75,6 +78,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
+---
 
 # 🧰 Tools
 
@@ -82,13 +86,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
 
+---
 
 # 🧠 Other Skills
 
 ![Problem Solving](https://img.shields.io/badge/Problem-Solving-brightgreen)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoft-excel)
 
-
+---
 
 # 🎓 Education
 
