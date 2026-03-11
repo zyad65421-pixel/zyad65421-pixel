@@ -29,7 +29,7 @@
 
 ---
 
- 🧠 Cyber Security Skills
+<h1>🧠 Cyber Security Skills</h1> 
 
 ![Cyber Security](https://img.shields.io/badge/Cyber-Security-black)
 ![Bug Bounty](https://img.shields.io/badge/Bug-Bounty-red)
