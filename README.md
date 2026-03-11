@@ -29,6 +29,14 @@
 
 ---
 
+# 🚀 About Me
+
+- 🎓 Cyber Security Student  
+- 🔐 Interested in Ethical Hacking & Bug Bounty  
+- 🐧 I love working with Linux systems  
+- 🌐 Learning Networking & Web Security  
+- 🧠 Passionate about finding vulnerabilities  
+
 -  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" />  I’m currently learning **Web Security & Cyber Security**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" /><br>
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I like exploring **Linux & Networking**. <br>
@@ -48,15 +56,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZiadMohamedAbdelNasser&theme=tokyonight" width="32%">
 
 </div>
-
-# 🚀 About Me
-
-- 🎓 Cyber Security Student  
-- 🔐 Interested in Ethical Hacking & Bug Bounty  
-- 🐧 I love working with Linux systems  
-- 🌐 Learning Networking & Web Security  
-- 🧠 Passionate about finding vulnerabilities  
-
 ---
 
 # 🛠️ Skills & Tools
