@@ -103,8 +103,6 @@
 
 # 🎓 Education
 
-**Akhbar El Youm Academy**
-
 - Computer Networking  
 - Ethical Hacking  
 - Network Security  
