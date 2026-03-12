@@ -1,6 +1,14 @@
 <div align="center">
 
-![Ziad's Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hello+Coders...;I'm+Ziad+Mohamed;Penetration+Tester+Enthusiast;Always+Learning...)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hellocoders_rounded.gif" width="400" alt="Hacker Animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=600&lines=Hello+Coders...;I'm+Ziad+Mohamed+Abdel+Nasser;Always+learning+...;Penetration+Tester+Enthusiast" alt="Typing SVG" />
+</p>
+
+<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 
