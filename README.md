@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/zyad65421-pixel/blob/main/images/hellocoders_rounded.gif?raw=true" width="65%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-<img src="https://github.com/zyad65421-pixel/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
 # 👋 Hello, I'm Ziad Mohamed Abdel Nasser
 
