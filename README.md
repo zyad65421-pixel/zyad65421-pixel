@@ -1,11 +1,11 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hellocoders_rounded.gif" width="400" alt="Hacker Animation" />
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hellocoders_rounded.gif" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=600&lines=Hello+Coders...;I'm+Ziad+Mohamed+Abdel+Nasser;Always+learning+...;Penetration+Tester+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I'm+Ziad+Mohamed;Cyber+Security+Student;Penetration+Tester" alt="Ziad's Banner" />
 </p>
 
 <br>
