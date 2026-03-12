@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="![Ziad's Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hello+Coders...;I'm+Ziad+Mohamed;Penetration+Tester+Enthusiast;Always+Learning...) href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+![Ziad's Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hello+Coders...;I'm+Ziad+Mohamed;Penetration+Tester+Enthusiast;Always+Learning...)
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 
