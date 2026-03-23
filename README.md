@@ -107,15 +107,15 @@
 
 # 🎓 Education
 
--🏫 Akhbar El Yom Academy | B.Sc. in Computer Science
--🎓 Second Year Undergraduate
--⭐ GPA: 2.0/4.0
+- 🏫 Akhbar El Yom Academy | B.Sc. in Computer Science
+- 🎓 Second Year Undergraduate
+- ⭐ GPA: 2.0/4.0
 
--📖 Relevant Coursework:
--Computer Networking
--Ethical Hacking
--Network Security
--English
+- 📖 Relevant Coursework:
+- Computer Networking
+- Ethical Hacking
+- Network Security
+- English
 
 ---
 
